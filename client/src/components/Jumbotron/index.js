@@ -5,7 +5,7 @@ function Jumbotron() {
   return (
     <div 
 
-    className="jumbotron text-center">
+    className="jumbotron jumbotron-fluid text-center">
       <h1><em>Readin'</em></h1>
     </div>
   );
