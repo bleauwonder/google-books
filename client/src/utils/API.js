@@ -3,11 +3,11 @@ import axios from "axios";
 export default {
   // Gets all books
   getBooks: function() {
-    return axios.get("https://www.googleapis.com/books/v1/volumes?q=time");
+    return axios.get("/api/books");
   },
   // Gets the book with the given id
   getBook: function(id) {
-    return axios.get("https://www.googleapis.com/books/v1/volumes?q=?");
+    return axios.get("/api/books");
   },
   // Deletes the book with the given id
   deleteBook: function(id) {
