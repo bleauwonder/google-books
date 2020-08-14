@@ -32,7 +32,8 @@
     "minimist": "^1.2.5",
     "mongoose": "^5.6.13",
     "react": "^16.9.0",
-    "react-router-dom": "^5.0.1"
+    "react-router-dom": "^5.0.1",
+    "serialize-javascript": "^4.0.0"
   },
   "bugs": {
     "url": "https://github.com/bleauwonder/google-books/issues"
