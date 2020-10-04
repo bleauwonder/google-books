@@ -33,7 +33,8 @@
     "mongoose": "^5.6.13",
     "react": "^16.9.0",
     "react-router-dom": "^5.0.1",
-    "serialize-javascript": "^4.0.0"
+    "serialize-javascript": "^4.0.0",
+    "yargs-parser": "^20.2.1"
   },
   "bugs": {
     "url": "https://github.com/bleauwonder/google-books/issues"
